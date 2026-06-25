@@ -1,49 +1,65 @@
-# Acerca del conjunto de datos
+# 🎓 Conjunto de Datos de Rendimiento Estudiantil
 
-## Descripción
+## 📖 Descripción General
 
-El **conjunto de datos de rendimiento estudiantil** está diseñado para examinar los factores que influyen en el rendimiento académico de los estudiantes.
+El **Conjunto de Datos de Rendimiento Estudiantil** fue diseñado para analizar los factores que influyen en el desempeño académico de los estudiantes.
 
-Consta de **10,000 registros de estudiantes**, cada uno con información sobre diversos predictores y un índice de rendimiento.
+Contiene **10,000 registros**, donde cada observación representa a un estudiante e incluye información sobre diversos factores personales y académicos, junto con un **Índice de Rendimiento** que mide su desempeño general.
 
-## Variables
+---
 
-### Variables predictoras
+## 📊 Variables del Conjunto de Datos
 
-- **Horas de estudio:** Número total de horas que cada estudiante dedicó al estudio.
-- **Puntuaciones anteriores:** Calificaciones obtenidas por los estudiantes en pruebas anteriores.
-- **Actividades extracurriculares:** Indica si el estudiante participa en actividades extracurriculares (**Sí** o **No**).
-- **Horas de sueño:** Número promedio de horas de sueño por día.
-- **Ejemplos de exámenes practicados:** Cantidad de exámenes de práctica realizados por el estudiante.
+### 📝 Variables Predictoras
 
-### Variable objetivo
+| Variable                             | Descripción                                                   |
+| ------------------------------------ | ------------------------------------------------------------- |
+| 📚 **Horas de estudio**              | Número total de horas dedicadas al estudio.                   |
+| 📈 **Puntuaciones anteriores**       | Calificaciones obtenidas en evaluaciones previas.             |
+| 🎭 **Actividades extracurriculares** | Participación en actividades extracurriculares (*Sí* / *No*). |
+| 😴 **Horas de sueño**                | Promedio de horas de sueño por día.                           |
+| 📑 **Exámenes practicados**          | Cantidad de exámenes de práctica realizados.                  |
 
-#### Índice de rendimiento
+---
 
-Medida del rendimiento académico general de cada estudiante.
+## 🎯 Variable Objetivo
 
-Características del índice:
+### Índice de Rendimiento
 
-- Se ha redondeado al número entero más cercano.
-- Toma valores entre **10 y 100**.
-- Los valores más altos indican un mejor desempeño académico.
+El **Índice de Rendimiento** representa el desempeño académico global de cada estudiante.
 
-## Objetivo del conjunto de datos
+#### Características
 
-Este conjunto de datos tiene como finalidad proporcionar información sobre la relación entre las variables predictoras y el índice de rendimiento.
+* ✅ Redondeado al número entero más cercano.
+* ✅ Valores comprendidos entre **10 y 100**.
+* ✅ Los valores más altos indican un mejor rendimiento académico.
 
-Los investigadores y analistas de datos pueden utilizarlo para explorar el impacto de:
+---
 
-- Las horas de estudio.
-- Las calificaciones previas.
-- La participación en actividades extracurriculares.
-- Las horas de sueño.
-- La práctica con exámenes de muestra.
+## 🔍 Propósito del Conjunto de Datos
 
-## Nota importante
+Este conjunto de datos permite estudiar cómo diferentes factores pueden influir en el rendimiento académico de los estudiantes.
 
-> **PD:** Este conjunto de datos es sintético y fue creado únicamente con fines ilustrativos. Las relaciones entre las variables y el índice de rendimiento pueden no reflejar situaciones reales.
+Entre los aspectos que pueden analizarse se encuentran:
 
-## Licencia
+* 📚 Impacto de las horas de estudio.
+* 📈 Influencia de las calificaciones previas.
+* 🎭 Efecto de las actividades extracurriculares.
+* 😴 Relación entre el sueño y el desempeño.
+* 📑 Beneficio de practicar con exámenes de muestra.
 
-Cualquier persona es libre de compartir y utilizar estos datos.
+---
+
+## ⚠️ Nota Importante
+
+> Este conjunto de datos es **sintético** y fue creado exclusivamente con fines educativos e ilustrativos.
+>
+> Por lo tanto, las relaciones observadas entre las variables y el índice de rendimiento pueden no reflejar con precisión situaciones del mundo real.
+
+---
+
+## 📄 Licencia
+
+🔓 **Uso libre**
+
+Cualquier persona puede utilizar, compartir y distribuir estos datos sin restricciones.
