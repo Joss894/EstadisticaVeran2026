@@ -1,0 +1,1 @@
+# EstadisticaVeran2026
