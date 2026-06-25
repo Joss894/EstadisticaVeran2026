@@ -7,6 +7,7 @@ El **Conjunto de Datos de Rendimiento Estudiantil** fue diseñado para analizar 
 Contiene **10,000 registros**, donde cada observación representa a un estudiante e incluye información sobre diversos factores personales y académicos, junto con un **Índice de Rendimiento** que mide su desempeño general.
 
 ---
+# La base de de Datos esta [aqui](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
 
 ## 📊 Variables del Conjunto de Datos
 
